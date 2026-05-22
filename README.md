@@ -1,4 +1,4 @@
-# 🚀 Anti-Gravity To-Do
+# 🚀 Anti-Gravity To-Do LIST
 
 A futuristic To-Do List app with neon glow effects, floating particles, glassmorphism UI, and smooth animations. Built using HTML, CSS, and JavaScript.
 
